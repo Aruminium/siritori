@@ -20,9 +20,11 @@ $ docker compose up -d
 
 ### 3. Lets play
 
-|Json Key|type|
-|:-|:-|
-|noun|string|
+|Json Key|type|caution|
+|:-|:-|:-|
+|noun|string|Input only in hiragana|
+
+
 
 ```
 $ curl localhost:5000/init
